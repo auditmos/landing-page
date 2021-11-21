@@ -766,9 +766,13 @@ a.social_svg_white:hover path{
 .audit_name_col{
 	padding:0 20px 0 20px
 }
+
+.copyright_bottom {
+	font-size:10px;
+}
 }
 .copyright_bottom a{
-	color:#fff
+	color:#fff;
 }
 .copyright_bottom a:hover{
 	color:#03E3FF
