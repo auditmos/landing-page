@@ -294,10 +294,13 @@ header .twitter_social {
 	margin-bottom: 20px;
 }
 .description_shadow_box p,
-.detail_text_shadow_box,
 .left_name_shadow_box {
     color: #13255B;
     font-size: 15px;
+}
+.detail_text_shadow_box {
+    color: #13255B;
+    font-size: 12px;
 }
 p.strong_detail_box {
     margin-bottom: 0;
@@ -348,6 +351,9 @@ img{max-width:100%}
 }
 .color_white{
 	color:#fff
+}
+.color_blue{
+	color: #13255B;
 }
 .color_primary{
 	color:#03E3FF
