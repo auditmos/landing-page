@@ -27,19 +27,19 @@ const Services: FC = () => {
     const services = [
         {
             title: "Smart Contracts Audits",
-            description: "The team that will check your smart contract has extensive experience in many ecosystems. They specialize in writing contracts from scratch, so they know what solutions have strengths and weaknesses during implementation. Trust us, we will make you do not have to worry."
+            description: "Our expert team reviews your smart contracts to ensure they are secure and reliable. With years of experience building blockchain solutions, we know exactly what makes contracts safe and efficient. We give you peace of mind knowing your code is protected."
         },
         {
             title: "Token Listing Readiness",
-            description: "Thanks to an experienced team of IT Developers, we are able to assess the progress of work on creating a pair for the stock exchange and adding liquidity. Using our experience and tips, you will be put on the right track during further work."
+            description: "We help prepare your token for successful exchange listing and ensure proper liquidity setup. Our expert guidance makes the listing process smooth and helps you avoid common pitfalls, giving your token the best chance of success."
         },
         {
             title: "DevSecOps",
-            description: "The team of IT developers developing software will receive clear instructions on how to make their work more optimal. The audit will help to automate the code creation processes by eliminating errors and will make the used solutions convenient and safe."
+            description: "We help your development team write better, safer code through clear guidance and best practices. Our security-focused approach helps catch issues early, speeds up development, and ensures your software is both reliable and secure."
         },
         {
             title: "Risk Management",
-            description: "Risk management is one of the most important issues when implementing blockchain projects. A design is only strong if the risks are minimized and continuously controlled to prevent errors. Our team will point out strengths and weaknesses and provide tips on how to fix them."
+            description: "We help protect your business by finding and fixing potential risks in your blockchain project. Our team carefully checks your system to make sure it's safe, tells you what's working well and what needs improvement, and guides you on making it more secure. This gives you and your users peace of mind."
         },
         {
             title: "GDRP Compliance",
