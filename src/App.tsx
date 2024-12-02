@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import Header from '@/components/layout/Header'
 import Hero from '@/components/home/Hero'
+import Stats from '@/components/home/Stats'
 import WhyAuditmos from '@/components/home/WhyAuditmos'
 import Services from '@/components/home/Services'
 import Audits from '@/components/home/Audits'
@@ -30,6 +31,7 @@ function App() {
       )}
       <main>
         <Hero />
+        <Stats />
         <WhyAuditmos />
         <Services />
         <Audits />

@@ -8,7 +8,7 @@ const WhyAuditmos: FC = () => {
           <div className="section_2_home_left">
             <h2 className="h2_head color_white">Why <span className="color_primary">Auditmos?</span></h2>
             <p className="lead color_white mb2">
-              An experienced team can cope with the task without any problems. Auditmos is a guarantee of a secure code.
+              Our expert team helps protect your business and build trust with your users. We make sure your code is safe and reliable.
             </p>
             <a 
               href="https://github.com/auditmos/audits/issues/new/choose" 

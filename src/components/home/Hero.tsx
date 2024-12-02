@@ -12,7 +12,7 @@ const Hero: FC = () => {
             </h1>
           </div>
           <div className="home_hero_button">
-            <a href={LINKS.ACTIONS.CONTACT} className="btn btn_secondary">Contact</a>
+            <a href={LINKS.ACTIONS.CONTACT} className="btn btn_secondary">Ask us about security</a>
             <a 
               href={LINKS.ACTIONS.REQUEST_AUDIT} 
               target="_blank"
