@@ -34,6 +34,10 @@ const Audits: FC = () => {
 
   const audits: Audit[] = [
     {
+      name: "Cookie3 Airdrop Farming Lock",
+      reportUrl: "https://github.com/auditmos/audits/blob/main/2025_01_08_COOKIE3_AIRDROP_FARMING_LOCK.pdf"
+    },
+    {
       name: "AI Agent Layer",
       reportUrl: "https://github.com/auditmos/audits/blob/main/2024_11_08_AI_AGENT_LAYER.pdf"
     },
