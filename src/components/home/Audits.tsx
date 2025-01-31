@@ -34,6 +34,10 @@ const Audits: FC = () => {
 
   const audits: Audit[] = [
     {
+      name: "Honey Fun Token",
+      reportUrl: "https://github.com/auditmos/audits/blob/main/2025_01_30_HONEY_FUN_TOKEN.pdf"
+    },
+    {
       name: "Cookie3 Airdrop Farming Lock",
       reportUrl: "https://github.com/auditmos/audits/blob/main/2025_01_08_COOKIE3_AIRDROP_FARMING_LOCK.pdf"
     },
